@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPT Laba 7_2_3", "MPT Laba 7_2_3\MPT Laba 7_2_3.csproj", "{D2E3F2D6-CC30-4EC5-B540-A812D9130BC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPT Laba 7_2_3Tests", "MPT Laba 7_2_3Tests\MPT Laba 7_2_3Tests.csproj", "{E55E56CC-72A1-4244-B0FB-A7D2D6A2203B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E3F2D6-CC30-4EC5-B540-A812D9130BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E3F2D6-CC30-4EC5-B540-A812D9130BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E3F2D6-CC30-4EC5-B540-A812D9130BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E3F2D6-CC30-4EC5-B540-A812D9130BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E55E56CC-72A1-4244-B0FB-A7D2D6A2203B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55E56CC-72A1-4244-B0FB-A7D2D6A2203B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55E56CC-72A1-4244-B0FB-A7D2D6A2203B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55E56CC-72A1-4244-B0FB-A7D2D6A2203B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CD5564F-4F02-44AC-94C9-E19B772F251E}
+	EndGlobalSection
+EndGlobal

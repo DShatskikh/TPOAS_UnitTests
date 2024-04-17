@@ -1,0 +1,14 @@
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\bin\Debug\net8.0\MPT Laba 7_2_3.exe
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\bin\Debug\net8.0\MPT Laba 7_2_3.deps.json
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\bin\Debug\net8.0\MPT Laba 7_2_3.runtimeconfig.json
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\bin\Debug\net8.0\MPT Laba 7_2_3.dll
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\bin\Debug\net8.0\MPT Laba 7_2_3.pdb
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.AssemblyInfoInputs.cache
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.AssemblyInfo.cs
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.csproj.CoreCompileInputs.cache
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.dll
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\refint\MPT Laba 7_2_3.dll
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.pdb
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\MPT Laba 7_2_3.genruntimeconfig.cache
+C:\Users\s-den\Documents\Programming\Visual Studio\MPT Laba 7_2_3\MPT Laba 7_2_3\obj\Debug\net8.0\ref\MPT Laba 7_2_3.dll
